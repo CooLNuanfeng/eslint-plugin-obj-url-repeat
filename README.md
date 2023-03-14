@@ -34,7 +34,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "obj-url-repeat/rule-name": 2
+        "obj-url-repeat/url-repeat": 2
     }
 }
 ```
